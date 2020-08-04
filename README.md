@@ -13,4 +13,4 @@ Em busca de me tornar um FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Acompanhar novas tecnologias é um dos meus prazeres. Gamer quando possível: CS:GO, LoL e Rocket League.  
  <br/> :email: &nbsp; Entre em contato comigo:
  
- [![Microsoft_Outlook Badge](https://img.shields.io/badge/-leo.ferreira10@live.com-blue?style=flat-square&logo=Microsoft_Outlook&logoColor=white&link=mailto:leo.ferreira10@live.com)](mailto:mailto:leo.ferreira10@live.com)
+ [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-ferreira-10-)](https://www.linkedin.com/in/leonardo-ferreira-10-/)
