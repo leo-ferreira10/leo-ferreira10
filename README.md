@@ -12,4 +12,5 @@ Em busca de me tornar um FullStack Developer :computer:
  <br/> :computer: &nbsp; Minha stack: HTML 5, CSS 3, JavaScript, PHP 7, WordPress e aprendendo Node.js, React Native & ReactJS.
  <br/> 💬  &nbsp; Sobre mim: Acompanhar novas tecnologias é um dos meus prazeres. Gamer quando possível: CS:GO, LoL e Rocket League.  
  <br/> :email: &nbsp; Entre em contato comigo:
- <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="leonardo-ferreira-10-"><a class="LI-simple-link" href='https://br.linkedin.com/in/leonardo-ferreira-10-?trk=profile-badge'>Leonardo Ferreira</a></div>
+ 
+ [![Microsoft_Outlook Badge](https://img.shields.io/badge/-leo.ferreira10@live.com-blue?style=flat-square&logo=Microsoft_Outlook&logoColor=white&link=mailto:leo.ferreira10@live.com)](mailto:mailto:leo.ferreira10@live.com)
