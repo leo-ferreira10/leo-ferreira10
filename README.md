@@ -11,6 +11,6 @@ Em busca de me tornar um FullStack Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS!
  <br/> :computer: &nbsp; Minha stack: HTML 5, CSS 3, JavaScript, PHP 7 e aprendendo Node.js, React Native & ReactJS.
  <br/> 💬  &nbsp; Sobre mim: Acompanhar novas tecnologias é um dos meus prazeres. Gamer quando possível: CS:GO, LoL e Rocket League.  
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LeonardoFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-ferreira-10-)](https://www.linkedin.com/in/leonardo-ferreira-10-) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-leo.ferreira10@live.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.ferreira10@live.com)](mailto:leo.ferreira10@live.com)
