@@ -8,9 +8,8 @@ Sou apaixonado por tecnologia, inovação e desafios resolvendo problemas REAIS 
 Em busca de me tornar um FullStack Developer :computer:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
- <br/> :blush: &nbsp; Posso te ajudar com CSS!
- <br/> :computer: &nbsp; Minha stack: HTML 5, CSS 3, JavaScript, PHP 7 e aprendendo Node.js, React Native & ReactJS.
+ <br/> :blush: &nbsp; Posso te ajudar com CSS e WordPress!
+ <br/> :computer: &nbsp; Minha stack: HTML 5, CSS 3, JavaScript, PHP 7, WordPress e aprendendo Node.js, React Native & ReactJS.
  <br/> 💬  &nbsp; Sobre mim: Acompanhar novas tecnologias é um dos meus prazeres. Gamer quando possível: CS:GO, LoL e Rocket League.  
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LeonardoFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-ferreira-10-)](https://www.linkedin.com/in/leonardo-ferreira-10-) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-leo.ferreira10@live.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.ferreira10@live.com)](mailto:leo.ferreira10@live.com)
+ <br/> :email: &nbsp; Entre em contato comigo:
+ <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="leonardo-ferreira-10-"><a class="LI-simple-link" href='https://br.linkedin.com/in/leonardo-ferreira-10-?trk=profile-badge'>Leonardo Ferreira</a></div>
