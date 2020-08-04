@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/leo-ferreira10/leo-ferreira10/blob/master/15637-Mark-Twain-Quote-The-secret-to-getting-ahead-is-getting-started.jpg">
 
 
 # Leonardo Ferreira
