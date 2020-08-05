@@ -5,7 +5,7 @@
 
 ## Fala pessoal 👋
 Sou apaixonado por tecnologia, inovação e desafios resolvendo problemas REAIS utilizando a programação.
-<br/> Busco ser referência como :computer: *FullStack Developer* :computer: ajudando o máximo de pessoas possíveis com conhecimento e soluções.
+<br/> Busco ser referência como :computer: *FullStack Developer* :computer: ajudando o máximo de pessoas possíveis com conhecimentos e soluções.
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
  <br/> :blush: &nbsp; Posso te ajudar com CSS e WordPress!
